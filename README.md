@@ -1,6 +1,9 @@
 # 🔍 Deep OCR & Bounding Box Vision Studio
 
-> An interactive document intelligence & Optical Character Recognition (OCR) input layer powered by **Gradio UI**, **PaddleOCR**, and **Doc_TR** (`python-doctr`). Detects text regions, generates indexed bounding boxes & circular highlights, and extracts structured text.
+[![Live Web App](https://img.shields.io/badge/Live_Web_App-GitHub_Pages-38bdf8?style=for-the-badge&logo=github)](https://xsarveshpandey21.github.io/OCR-model-image-ti-text/)
+
+> **Live Web App**: [https://xsarveshpandey21.github.io/OCR-model-image-ti-text/](https://xsarveshpandey21.github.io/OCR-model-image-ti-text/)
+> An interactive document intelligence & Optical Character Recognition (OCR) input layer powered by **Gradio UI**, **PaddleOCR**, **Doc_TR**, and **Tesseract.js**.
 
 ---
 
