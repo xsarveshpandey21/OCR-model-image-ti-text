@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & Downloaded Models
+.paddleocr/
+.doctr/
+.cache/
+
+# Output directories
+output/
+inference_results/
+log_output/
+*.log
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE settings
+.vscode/
+.idea/
