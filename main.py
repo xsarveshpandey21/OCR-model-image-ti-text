@@ -364,7 +364,7 @@ with gr.Blocks(title="OCR & Bounding Box Vision Studio") as demo:
 
 if __name__ == "__main__":
     demo.launch(
-        server_name="127.0.0.1",
-        share=False,
+        server_name="0.0.0.0",
+        share=True,
         css=custom_css
     )
